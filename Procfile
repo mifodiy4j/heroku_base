@@ -1,0 +1,1 @@
+web: java -jar target/heroku_ифыу-2.0.jar
